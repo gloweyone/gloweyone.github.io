@@ -2,14 +2,19 @@ body {
 	text-align: left;
 	background: url("http://gloweyone.github.io/unit3/images/background.jpg");
 	background-size: cover;
+	background-position: center;
 }
 
 h1 {
-	
+	position: center;
+
 }
 
 p {
-	font-size: 24pix;
-	font-family: Helvetica
+	font-size: 40pix;
+	font-family: Helvetica;
+	font-color: white;
+	font-weight: ;
+
 
 }
