@@ -1,0 +1,17 @@
+body {
+	text-align: left;
+	background: url("http://gloweyone.github.io/unit3/images/stripes.png");
+	background: url("http://gloweyone.github.io/unit3/images/background.png");
+	background-size: cover;
+	background-position: center;
+}
+
+h1 {
+	background-color: gray
+}
+
+p {
+	font-size: 24pix;
+	font-family: Helvetica
+
+}
