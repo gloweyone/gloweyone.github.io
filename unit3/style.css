@@ -1,20 +1,10 @@
 body {
 	position: center;
 	text-align: left;
-	background: url("unit3/images/background.jpg");
-	background-size: cover;
+	background: url("http://gloweyone.github.io/unit3/images/stripes.png"), url("http://gloweyone.github.io/unit3/images/background.jpg");
+	background-repeat: repeat-x, no-repeat;
 }
 
-h1 {
-	position: center;
-
-}
-
-p {
-	font-size: 40pix;
-	font-family: Helvetica;
-	font-color: white;
-	font-weight: ;
-
-
+header {
+	margin:150px; 
 }
