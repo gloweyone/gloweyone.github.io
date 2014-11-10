@@ -1,8 +1,7 @@
 body {
 	position: center;
 	text-align: left;
-	background: url("http://gloweyone.github.io/unit3/images/stripes.png", "http://gloweyone.github.io/unit3/images/background.jpg");
-	background-repeat: repeat-x, no-repeat;
+	background: url("unit3/images/background.jpg");
 	background-size: cover;
 }
 
