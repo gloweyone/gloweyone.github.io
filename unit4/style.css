@@ -1,0 +1,33 @@
+body {
+	background: url("http://gloweyone.github.io/unit4/images/grumpycat.jpg");
+	font-family: Helvetica, Arial, Serif;
+	font-weight: 100;
+	color:#ffffff;
+}
+
+header {
+	font-family: 'Corben', cursive;
+	margin-top: 200px;
+	margin-left: 150px;
+	padding-bottom: 20px;
+	width: 150px;
+	height: 45px;
+}
+
+hr {
+	margin-left: 150px;
+	width: 100px;
+	height: 3px;
+	border: none;
+	background-color: red;
+
+}
+
+p {
+	margin-left: 150px;
+	
+}
+
+a {
+	margin-left: 150px;
+}
