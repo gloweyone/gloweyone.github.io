@@ -1,33 +1,37 @@
+#wrapper {
+	margin-left: 0px;
+	vertical-align: bottom;
+}
+
 body {
-	background: url("http://gloweyone.github.io/unit4/images/grumpycat.jpg");
-	font-family: Helvetica, Arial, Serif;
-	font-weight: 100;
+	background: url("http://gloweyone.github.io/unit4/images/grumpycat.jpg") no-repeat;
+	background-size: cover;
+	font-family: 'Raleway', sans-serif;
 	color:#ffffff;
 }
 
-header {
-	font-family: 'Corben', cursive;
-	margin-top: 200px;
-	margin-left: 150px;
-	padding-bottom: 20px;
-	width: 150px;
-	height: 45px;
+h1 {
+	margin-top: 600px;
+	font-size: 125px;
+	text-align: center;
+	margin-bottom: 20px;
 }
 
 hr {
-	margin-left: 150px;
+	text-align: center;
 	width: 100px;
 	height: 3px;
 	border: none;
-	background-color: red;
-
+	background-color: black;
 }
 
 p {
-	margin-left: 150px;
-	
+	text-align: center;
+	color: black;
+	font-size: 35px;
+	font-style: italic;
 }
 
 a {
-	margin-left: 150px;
+	font-color: red;
 }
