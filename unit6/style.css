@@ -1,0 +1,46 @@
+body {
+	background-color: 000000;
+	
+}
+
+nav {
+	text-align: center;
+}
+
+h1 {
+	color: 000000;
+	margin-top: 150px;
+	font-size: 125px;
+	text-align: center;
+	margin-bottom: 20px;
+	letter-spacing: 5px;
+}
+
+
+p {
+	text-align: center;
+	color: black;
+	font-size: 35px;
+	font-style: italic;
+}
+
+a {
+	font-color: red;
+}
+
+img {
+	border-top: 25px;
+	margin: 0 auto;
+	clear: both;
+}
+
+
+footer{
+
+}
+
+
+#wrapper {
+	margin-left: 0px;
+	vertical-align: bottom;
+}
